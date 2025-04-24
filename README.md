@@ -37,7 +37,7 @@
 ![Apache Spark](https://img.shields.io/badge/apache_spark-%23E25A2C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/google_colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Airflow](https://img.shields.io/badge/apache_airflow-%23000F26.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Metasploit](https://img.shields.io/badge/metasploit-%231A1A1A.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZidanAlfarizaPutraPratama&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
