@@ -3,6 +3,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zidan.a.putrapratama) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fon.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zidan-alfariza-putra-pratama-17a094295) 
 
 # 💻 Tech Stack:
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)![Kali Linux](https://img.shields.io/badge/kali_linux-%23000000.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -36,8 +37,7 @@
 ![Apache Spark](https://img.shields.io/badge/apache_spark-%23E25A2C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/google_colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 ![Airflow](https://img.shields.io/badge/apache_airflow-%23000F26.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)![Kali Linux](https://img.shields.io/badge/kali_linux-%23000000.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ZidanAlfarizaPutraPratama&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
